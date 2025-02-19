@@ -1,0 +1,26 @@
+/**
+ * @version 2.0.0
+ */
+ 
+.drflex-button-wrapper {
+    width: 100%;
+    text-align: center;
+    text-align: -webkit-center;
+    text-align: -moz-center;
+}
+
+.drflex-button-wrapper a {
+    text-decoration: none !important;
+}
+
+.drflex-button-wrapper a div {
+    font-family: Roboto, sans-serif;
+    font-weight: 600;
+    width: fit-content;
+    width: -moz-fit-content;
+    transition: box-shadow 0.3s;
+}
+
+.drflex-button-wrapper a div:hover {
+    box-shadow: 0 0.1em 0.4em 0 rgba(0, 0, 0, .35);
+}

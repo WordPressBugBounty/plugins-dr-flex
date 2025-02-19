@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dr. Flex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-24 14:42+0000\n"
+"PO-Revision-Date: 2021-10-14 15:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: dr-flex.php:329
+msgid ""
+"<span class='green'>Appearance and placement of the booking button</span> "
+"for the user (patient) on the practice website (user interface = UI)."
+msgstr ""
+"<span class='green'>Erscheinungsbild und Platzierung des "
+"Buchungsbuttons</span> für den Nutzer (Patient) auf der Praxiswebsite (user "
+"interface = UI)."
+
+#: dr-flex.php:336
+msgid ""
+"<span class='green'>Behavior of the booking button</span> (User Experience = "
+"UX)"
+msgstr ""
+"<span class='green'>Verhalten des Buchungsbuttons</span> (User Experience = "
+"UX)"
+
+#: dr-flex.php:567
+msgid "API key invalid"
+msgstr "API Schlüssel ungültig"
+
+#: dr-flex.php:584
+msgid "API key valid"
+msgstr "API Schlüssel gültig"
+
+#: dr-flex.php:525
+msgid "Background color as HEX value"
+msgstr "Hintegrundfarbe als HEX Wert"
+
+#: dr-flex.php:464
+msgid "Button ID"
+msgstr "Button ID"
+
+#: dr-flex.php:214
+msgid "Button integration"
+msgstr "Button-Integration"
+
+#: dr-flex.php:534
+msgid "Button integration as wordpress menu item"
+msgstr "Button-Einbindung als Wordpress Menüeintrag"
+
+#: dr-flex.php:520
+msgid "Button integration with shortcode on pages"
+msgstr "Button-Einbindung mit Shortcodes auf Seiten"
+
+#: dr-flex.php:276 dr-flex.php:283
+msgid "Callback"
+msgstr "Callback"
+
+#: dr-flex.php:361
+msgid "Callback Code Examples"
+msgstr "Callback Code Beispiele"
+
+#: dr-flex.php:382
+msgid "Callback examples"
+msgstr "Callback Beispiele"
+
+#: dr-flex.php:215
+msgid "Code examples"
+msgstr "Code Beispiele"
+
+#: dr-flex.php:212
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: dr-flex.php:542
+msgid "Configuration data have the wrong format. Error 230"
+msgstr "Konfigurationsdaten haben das falsche Format. Error 230"
+
+#: dr-flex.php:250 dr-flex.php:252
+msgid "Connection status"
+msgstr "Verbindungsstatus"
+
+#: dr-flex.php:530
+msgid "Custom CSS classes for the button"
+msgstr "Custom CSS Klassen für den Button"
+
+#: dr-flex.php:468
+msgid "Description"
+msgstr "Beschreibung"
+
+#: dr-flex.php:343
+msgid "Desktop, Tablet & Mobile"
+msgstr "Desktop, Tablet & Mobile"
+
+#: dr-flex.php:339
+msgid "Does a click open the Dr. Flex booking calendar?"
+msgstr "Öffnet sich beim Klick der Dr. Flex-Buchungskalender?"
+
+#: dr-flex.php:338
+msgid "Does the button react or move when the mouse is moved or clicked on it?"
+msgstr ""
+"Reagiert, bzw. bewegt sich der Button, wenn mit der Maus darüber gefahren "
+"oder geklickt wird?"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: dr-flex.php:209
+msgid "Dr. Flex"
+msgstr "Dr. Flex"
+
+#: dr-flex.php:260 dr-flex.php:262
+msgid "Dr. Flex API Key"
+msgstr "Dr. Flex API Key"
+
+#: dr-flex.php:290
+msgid "Examples"
+msgstr "Beispiele"
+
+#: dr-flex.php:526
+msgid "Font color as HEX value"
+msgstr "Schriftfarbe als HEX Wert"
+
+#: dr-flex.php:362
+msgid ""
+"Here are some sample code snippets for the callback function which could be "
+"used on the configuration page. \n"
+"    When using such functions, data protection aspects must be considered, "
+"observed and marked accordingly on the page!\n"
+"    These examples are provided without any warranty and for informative "
+"purposes only."
+msgstr ""
+"Hier finden Sie einige Beispiel-Codeschnipsel für die Callback-Funktion, "
+"welche auf der Konfigurationsseite eigesetzt werden könnten. \n"
+"  Bei der Verwendung solcher Funktionen müssen Datenschutzaspekte unbedingt "
+"beachtet, eingehalten und auf der Seite entsprechend gekennzeichnet werden!\n"
+"  Diese Beispiele werden ohne jegliche Gewährleistung und nur zu "
+"informativen Zwecken zur Verfügung gestellt."
+
+#: dr-flex.php:532
+msgid "Here is an example short code with all attributes"
+msgstr "Hier ein Beispiel-Shortcode mit allen Attributen"
+
+#: dr-flex.php:269
+msgid ""
+"Here you can generate a <strong>new API Key for the Wordpress Plugin</strong>"
+"."
+msgstr ""
+"Hier können Sie einen <strong>neuen API Key für das Wordpress Plugin "
+"generieren</strong>."
+
+#: dr-flex.php:331
+msgid ""
+"How does the button stand out from the rest of the website (color, shape, "
+"placement)? <span class='green'>(the more striking, the better the service "
+"is used)</span>"
+msgstr ""
+"Wie hebt sich der Button von der restlichen Website ab (Farbe, Form, "
+"Platzierung)? <span class='green'>(je auffälliger, desto besser wird der "
+"Service genutzt)</span>"
+
+#. Author URI of the plugin
+msgid "https://dr-flex.de"
+msgstr "https://dr-flex.de"
+
+#. Plugin URI of the plugin
+msgid "https://dr-flex.de/"
+msgstr "https://dr-flex.de/"
+
+#: dr-flex.php:531
+msgid ""
+"If the attributes are not set, the above default values are used. By the way,"
+" the attributes can also only be added individually."
+msgstr ""
+"Wenn die Attribute nicht gesetzt werden, werden die oben stehenden "
+"Standardwerte verwendet. Die Attribute können übrigens auch nur einzeln "
+"ergänzt werden."
+
+#: dr-flex.php:381
+msgid "If you reload the page, you will see the code snippets again."
+msgstr "Wenn Sie die Seite neu laden, sehen Sie wieder die Code Beispiele."
+
+#: dr-flex.php:529
+msgid "Individual text for the button"
+msgstr "Individueller Text für den Button"
+
+#: dr-flex.php:332
+msgid ""
+"Is a button placed in the header, footer and under contact / appointment / "
+"service (combination with the best conversion) and thus clearly visible to "
+"the user on all sub-pages?"
+msgstr ""
+"Ist jeweils ein Button im Header, Footer und unter Kontakt / Termin / "
+"Service platziert (Kombination mit der besten Conversion) und so für den "
+"User auf allen Unterseiten gut sichtbar?"
+
+#: dr-flex.php:345
+msgid ""
+"Is the button also well integrated in the mobile and tablet version under "
+"the above mentioned criteria?"
+msgstr ""
+"Ist der Button auch in der mobilen und tablet Version unter den o.g. "
+"Kriterien gut integriert?"
+
+#: dr-flex.php:470
+msgid "Minimal shortcode"
+msgstr "Minimaler Shortcode"
+
+#: dr-flex.php:268
+msgid ""
+"Navigate to the <strong>Account tab</strong> and then go to <strong>"
+"Settings</strong>."
+msgstr ""
+"Navigieren Sie zum <strong>Reiter Account</strong> und gehen dann auf "
+"<strong>Einstellungen</strong>.\n"
+
+#: dr-flex.php:574
+msgid "Not yet connected"
+msgstr "Noch nicht verbunden"
+
+#: dr-flex.php:537
+msgid ""
+"Note that, the URL has to contain all the characters above, including the "
+"parentheses, in order to work properly."
+msgstr ""
+"Hierbei ist zu beachten, dass die URL alle oben abgebildeten Zeichen "
+"enthalten muss, inklusive der Klammern, um richtig zu funktionieren."
+
+#: dr-flex.php:523
+msgid "Notes on button integration"
+msgstr "Hinweise zur Button-Integration"
+
+#: dr-flex.php:536
+msgid ""
+"Now add a text to your link such as \"Schedule appointment online\" and save "
+"the new menu configuration."
+msgstr ""
+"Anschließend muss noch ein Text für den Link hinzugefügt werden, wie "
+"beispielsweise \"Termin online buchen\", und die neue Menü-Konfiguration "
+"abgespeichert werden."
+
+#: dr-flex.php:322
+msgid "Optimal button integration"
+msgstr "Optimale Button-Integration"
+
+#: dr-flex.php:281
+msgid "Optional JavaScript callback."
+msgstr "Optionaler JavaScript Callback."
+
+#: dr-flex.php:528
+msgid "Padding as decimal number + CSS unit (px, em, vw, vh, rem, %)"
+msgstr "Padding als Dezimalzahl + CSS-Einheit (px, em, vw, vh, rem, %)"
+
+#: dr-flex.php:262
+msgid "Please enter your Dr. Flex API Key"
+msgstr "Bitte geben Sie Ihren Dr. Flex API Key ein"
+
+#: dr-flex.php:270
+msgid "Please insert it into the field <strong>API Key</strong>."
+msgstr "Fügen Sie diesen bitte in das Feld <strong>API Key</strong> ein."
+
+#: dr-flex.php:239
+msgid "Plugin Settings"
+msgstr "Plugin Einstellungen"
+
+#: dr-flex.php:527
+msgid "Rounded edges as decimal number + CSS unit (px, em, vw, vh, rem, %)"
+msgstr ""
+"Gerundete Kanten als Dezimalzahl + CSS-Einheit (px, em, vw, vh, rem, %)"
+
+#: dr-flex.php:246
+msgid "Settings for the booking tool on your website"
+msgstr "Einstellungen für das Buchungstool auf Ihrer Webseite"
+
+#: dr-flex.php:467
+msgid "Standard"
+msgstr "Standard"
+
+#: dr-flex.php:267
+msgid ""
+"The API key can be found in the settings in the Dr. Flex client application "
+"(or <a href=\"https://dr-flex.de/doctors\" target=\"_blank\">here online</a>)"
+"."
+msgstr ""
+"Den API Key finden Sie in den Einstellungen in der Dr. Flex Praxis Anwendung "
+"(oder <a href=\"https://dr-flex.de/doctors\" target=\"_blank\">hier "
+"online</a>)."
+
+#: dr-flex.php:521
+msgid ""
+"The buttons can be integrated via their ID's (e.g. id=1) via <a href=\"https:"
+"//codex.wordpress.org/shortcode\" target=\"_blank\">Wordpress Shortcodes</a>."
+" Please see also the"
+msgstr ""
+"Die Buttons können über Ihre ID\\'s (Bsp: id=1) via <a href=\"https://codex."
+"wordpress.org/shortcode\" target=\"_blank\">Wordpress Shortcodes</a> "
+"eingebunden werden. Sehen Sie sich dazu bitte auch folgende Infos an:"
+
+#: dr-flex.php:548
+msgid "The data for your account could not be loaded."
+msgstr "Die Daten zu Ihrem Account konnten nicht geladen werden.."
+
+#: dr-flex.php:524
+msgid ""
+"The following optional attributes can be used in addition to <strong>"
+"id</strong> (CSS notation):"
+msgstr ""
+"Die folgenden optionalen Attribute können zusätzlich zur <strong>id</strong> "
+"verwendet werden (CSS-Notation):"
+
+#: dr-flex.php:325
+msgid ""
+"The following points should be considered when integrating the booking "
+"button on the practice website."
+msgstr ""
+"Folgende Punkte sollten bei der Integration des Buchungs-Buttons auf der "
+"Praxiswebsite berücksichtigt werden."
+
+#: dr-flex.php:288
+msgid ""
+"The JavaScript code you enter is executed during certain user actions. How "
+"this code might look like in different scenarios can be found at"
+msgstr ""
+"Der von Ihnen eingegebene JavaScript-Code wird bei bestimmten "
+"Benutzeraktionen ausgeführt. Wie dieser Code in verschiedenen Szenarien "
+"aussehen könnte finden Sie unter"
+
+#. Description of the plugin
+msgid ""
+"The official Dr. Flex® Wordpress plugin for easy integration of the Dr. "
+"Flex® booking tool on your website."
+msgstr ""
+"Das offizielle Dr. Flex® Wordpress-Plugin zur einfachen Integration des Dr. "
+"Flex®-Buchungstools auf Ihrer Website."
+
+#: dr-flex.php:545
+msgid "There is no configuration data available at the moment."
+msgstr "Im Moment liegen keine Konfigurationsdaten vor."
+
+#: dr-flex.php:535
+msgid ""
+"To integrate the booking button as a menu item in the site navigation, "
+"create a new individual link item in the wordpress menu and add the follwing "
+"text as the link URL"
+msgstr ""
+"Um den Buchungs-Button als Menüeintrag in der Seitennavigation einzubinden, "
+"muss ein individueller Link im Wordpress Menü erstellt werden, welcher den "
+"folgenden Text als Link URL enthält"
+
+#: dr-flex.php:296 dr-flex.php:298
+msgid "Your Buttons"
+msgstr "Ihre Buttons"

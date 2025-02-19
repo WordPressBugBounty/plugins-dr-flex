@@ -1,0 +1,168 @@
+/**
+ * @version 2.0.0
+ */
+
+/* Custom CSS */ 
+
+.CodeMirror {
+  border: 1px solid #ddd;
+  height: auto;
+  min-height: 4em;
+}
+
+.drflex-callback-code {
+  padding: 15px 10px 15px 0;
+}
+
+.drflex-code-snippet {
+  font-family: Courier New, serif;;
+  font-weight: bold;
+}
+
+/* Integration Page */
+
+.drflex_integration h2 {
+  font-weight: 400;
+}
+
+.drflex_integration .green {
+  color: #02ca9d;
+  font-weight: bold;
+}
+
+.drflex_integration ol {
+  font-weight: 300;
+  font-size: 120%;
+}
+
+.drflex_integration ol li div {
+  padding: 0.7em 0;
+}
+
+.drflex_integration ul li {
+  list-style: disc;
+  margin-left: 2em;
+  line-height: 1.6em;
+}
+
+#togglePassword {
+  margin: 0.2em 0 0 -2em;
+  cursor: pointer;
+}
+
+/* Update spinner button */
+
+.drflex-submitting:after {
+  margin-left: 0.3em;
+  animation: rotation 1.4s infinite linear;
+  color: #ffa400;
+  content: "\f463";
+  display: inline-block;
+  font: normal 2em dashicons;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  vertical-align: top;
+}
+
+/* Plugin description css */
+
+.toplevel_page_drflex_plugin_settings > * a {
+  color: #00ca9d;
+}
+
+.toplevel_page_drflex_plugin_settings > * a:hover {
+  color: #0084f7;
+}
+
+.dr-flex_page_drflex_plugin_settings_integration > * a {
+  color: #00ca9d;
+}
+
+.dr-flex_page_drflex_plugin_settings_integration > * a:hover {
+  color: #0084f7;
+}
+
+.dr-flex_page_drflex_plugin_settings_examples > * a {
+  color: #00ca9d;
+}
+
+.dr-flex_page_drflex_plugin_settings_examples > * a:hover {
+  color: #0084f7;
+}
+
+.drflex-submit {
+  background: linear-gradient(-225deg,#0084f7 0%,#78d8da 100%) !important;
+  border-color: #ffffff !important;
+}
+
+.dr-flex-code {
+  font-family: Courier, serif;
+  font-weight: 600;
+  color: #00ca9d;
+}
+
+.dr-flex-button {
+  background: linear-gradient(-225deg, #0084f7 0%, #78d8da 100%);
+  border-radius: 1em;
+  padding: 0.7em;
+  color: #ffffff;
+  max-width: 25em;
+  margin-bottom: 1em;
+}
+
+.dr-flex-button > .dr-flex-btn-header {
+  display: grid;
+  grid-template-columns: 0.5em 1fr 0 1fr 0.5em;
+  padding: 0.5em 0;
+}
+
+.dr-flex-button > .dr-flex-btn-header > .dr-flex-btn-title {
+  grid-row: 1;
+  grid-column: 2;
+  font-family: Courier, serif;
+}
+
+.dr-flex-button > .dr-flex-btn-header > .dr-flex-btn-title > span {
+  font-size: 140%;
+}
+
+.dr-flex-button > .dr-flex-btn-header > .dr-flex-btn-type {
+  grid-row: 1;
+  grid-column: 4;
+  text-align: end;
+}
+
+.dr-flex-button > .dr-flex-btn-header > .dr-flex-btn-type > span {
+  background-color: #ffffff;
+  color: #303030;
+  padding: 0.5em;
+  border-radius: 1em;
+  font-family: Courier, serif;
+}
+
+.dr-flex-button > .dr-flex-btn-body {
+  margin-top: 1em;
+  padding: 0.5em;
+}
+
+.dr-flex-button > .dr-flex-btn-shortcode {
+  margin-top: 0.5em;
+  padding: 0.5em;
+}
+
+.dr-flex-button > .dr-flex-btn-shortcode > span {
+  color: #ffffff;
+}
+
+.dr-flex-status-indicator {
+  width: auto;
+  height: auto;
+  padding: 0.7em;
+  color: #ffffff;
+  border-radius: 0.5em;
+}
+
+.dr-flex-heading-icon {
+  color: #0084f7;
+  vertical-align: text-bottom;
+}
