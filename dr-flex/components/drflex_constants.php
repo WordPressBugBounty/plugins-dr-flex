@@ -7,7 +7,7 @@
  * @author		Johannes Dato
  * @copyright	Copyright (c) 2020
  * @link		https://dr-flex.de
- * @version		2.0.0
+ * @version		2.0.1
  */
 
 $GLOBALS['drflex_host'] = "https://dr-flex.de:443"; // "http://192.168.178.21:555" ; //

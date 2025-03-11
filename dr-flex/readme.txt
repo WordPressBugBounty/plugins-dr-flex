@@ -2,9 +2,9 @@
 Contributors: drflex
 Tags: DrFlex, Terminvereinbarung
 Requires at least: 4.6.0
-Tested up to: 6.1
+Tested up to: 6.7.2
 Requires PHP: 5.6.28
-Stable tag: trunk
+Stable tag: 2.0.1
 License: GNU GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -25,6 +25,9 @@ Anschließend können Sie das Buchungstool über einen WordPress Shortcode oder 
 Anschießend können Sie das Buchungstool über einen Wordpress Shortcode direkt auf der gewünschten Seiten einbinden oder dies wie gewohnt über die JavaScript funktion 'javascript:toggleDrFlexAppointments()' bewerkstelligen. Sie können nun das Buchungstool auf Ihrer Webseite verwenden. Viel Spass!
 
 == Changelog ==
+
+= 2.0.1 =
+* Korrektur Escaping von Shortcode Attributen  
 
 = 2.0.0 =
 * Updates für neues Booking Widget
