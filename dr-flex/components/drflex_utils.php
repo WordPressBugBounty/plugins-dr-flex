@@ -7,7 +7,7 @@
  * @author		Johannes Dato
  * @copyright	Copyright (c) 2020
  * @link		https://dr-flex.de
- * @version		2.0.1
+ * @version		2.0.3
  */
 include_once('drflex_constants.php');
 
@@ -43,7 +43,8 @@ function drflex_utils_fetch_from_url($url, $is_dr_flex_host = false)
         $request_headers["Authorization"] = "Bearer " . $api_key;
     }
 
-    $encodings = explode(', ', $_SERVER['HTTP_ACCEPT_ENCODING']);
+    $accept_encoding = isset($_SERVER['HTTP_ACCEPT_ENCODING']) ? $_SERVER['HTTP_ACCEPT_ENCODING'] : '';
+    $encodings = explode(', ', $accept_encoding);
     if (in_array('br', $encodings)) {
         $request_headers["X-Accept-Encoding"] = "br";
     }

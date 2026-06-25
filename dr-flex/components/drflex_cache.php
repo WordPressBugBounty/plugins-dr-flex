@@ -7,7 +7,7 @@
  * @author		Johannes Dato
  * @copyright	Copyright (c) 2020
  * @link		https://dr-flex.de
- * @version		2.0.1
+ * @version		2.0.3
  */
 include_once('drflex_constants.php');
 include_once('drflex_utils.php');

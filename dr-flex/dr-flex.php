@@ -3,7 +3,7 @@
 Plugin Name: Dr. Flex
 Plugin URI: https://dr-flex.de/
 Description: The official Dr. Flex® Wordpress plugin for easy integration of the Dr. Flex® booking tool on your website.
-Version: 2.0.2
+Version: 2.0.3
 Requires at least: 5.0
 Author: Dr. Flex
 Author URI: https://dr-flex.de

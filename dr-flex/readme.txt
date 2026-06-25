@@ -2,9 +2,9 @@
 Contributors: drflex
 Tags: DrFlex, Terminvereinbarung
 Requires at least: 4.6.0
-Tested up to: 6.7.2
+Tested up to: 7.0
 Requires PHP: 5.6.28
-Stable tag: 2.0.2
+Stable tag: 2.0.3
 License: GNU GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -25,6 +25,10 @@ Anschließend können Sie das Buchungstool über einen WordPress Shortcode oder 
 Anschießend können Sie das Buchungstool über einen Wordpress Shortcode direkt auf der gewünschten Seiten einbinden oder dies wie gewohnt über die JavaScript funktion 'javascript:toggleDrFlexAppointments()' bewerkstelligen. Sie können nun das Buchungstool auf Ihrer Webseite verwenden. Viel Spass!
 
 == Changelog ==
+
+= 2.0.3 =
+* Kompatibilität mit WordPress 7.0 getestet
+* Fehlerbehebung: PHP-Warnung/Deprecation bei fehlendem Accept-Encoding-Header (PHP 8.x)
 
 = 2.0.2 =
 * Hinweistext zum API Key aktualisiert (Bezug per E-Mail / Praxis-Konfigurator, Link zum Login)
