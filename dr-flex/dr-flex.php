@@ -3,7 +3,7 @@
 Plugin Name: Dr. Flex
 Plugin URI: https://dr-flex.de/
 Description: The official Dr. Flex® Wordpress plugin for easy integration of the Dr. Flex® booking tool on your website.
-Version: 2.0.1
+Version: 2.0.2
 Requires at least: 5.0
 Author: Dr. Flex
 Author URI: https://dr-flex.de
@@ -264,10 +264,8 @@ function drflex_plugin_settings_page()
                             value="<?php echo esc_attr(get_option('drflex_api_key')); ?>">
                         <span class="dashicons dashicons-visibility" id="togglePassword"></span>
                         <p class="help">
-                            <?php printf( '%s<br>%s<br>%s%s', 
-                            __('The API key can be found in the settings in the Dr. Flex client application (or <a href="https://dr-flex.de/doctors" target="_blank">here online</a>).', 'dr-flex'),
-                            __('Navigate to the <strong>Account tab</strong> and then go to <strong>Settings</strong>.', 'dr-flex'),
-                            __('Here you can generate a <strong>new API Key for the Wordpress Plugin</strong>.', 'dr-flex'),
+                            <?php printf( '%s<br>%s', 
+                            __('The API key has probably already been sent to you by the Dr. Flex support team by email.<br>You can also find it in the Dr. Flex Praxis-Konfigurator under <strong>Praxis &rarr; Verbindung und Integrationen</strong>. <a href="https://dr-flex.de/login" target="_blank"> (here)</a>', 'dr-flex'),
                             __('Please insert it into the field <strong>API Key</strong>.', 'dr-flex')
                         ); ?>
                         </p>

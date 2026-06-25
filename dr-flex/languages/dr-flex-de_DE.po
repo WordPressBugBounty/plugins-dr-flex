@@ -147,14 +147,6 @@ msgstr ""
 msgid "Here is an example short code with all attributes"
 msgstr "Hier ein Beispiel-Shortcode mit allen Attributen"
 
-#: dr-flex.php:269
-msgid ""
-"Here you can generate a <strong>new API Key for the Wordpress Plugin</strong>"
-"."
-msgstr ""
-"Hier können Sie einen <strong>neuen API Key für das Wordpress Plugin "
-"generieren</strong>."
-
 #: dr-flex.php:331
 msgid ""
 "How does the button stand out from the rest of the website (color, shape, "
@@ -212,14 +204,6 @@ msgstr ""
 msgid "Minimal shortcode"
 msgstr "Minimaler Shortcode"
 
-#: dr-flex.php:268
-msgid ""
-"Navigate to the <strong>Account tab</strong> and then go to <strong>"
-"Settings</strong>."
-msgstr ""
-"Navigieren Sie zum <strong>Reiter Account</strong> und gehen dann auf "
-"<strong>Einstellungen</strong>.\n"
-
 #: dr-flex.php:574
 msgid "Not yet connected"
 msgstr "Noch nicht verbunden"
@@ -261,7 +245,7 @@ msgstr "Padding als Dezimalzahl + CSS-Einheit (px, em, vw, vh, rem, %)"
 msgid "Please enter your Dr. Flex API Key"
 msgstr "Bitte geben Sie Ihren Dr. Flex API Key ein"
 
-#: dr-flex.php:270
+#: dr-flex.php:269
 msgid "Please insert it into the field <strong>API Key</strong>."
 msgstr "Fügen Sie diesen bitte in das Feld <strong>API Key</strong> ein."
 
@@ -282,15 +266,16 @@ msgstr "Einstellungen für das Buchungstool auf Ihrer Webseite"
 msgid "Standard"
 msgstr "Standard"
 
-#: dr-flex.php:267
+#: dr-flex.php:268
 msgid ""
-"The API key can be found in the settings in the Dr. Flex client application "
-"(or <a href=\"https://dr-flex.de/doctors\" target=\"_blank\">here online</a>)"
-"."
+"The API key has probably already been sent to you by the Dr. Flex support "
+"team by email.<br>You can also find it in the Dr. Flex Praxis-Konfigurator "
+"under <strong>Praxis &rarr; Verbindung und Integrationen</strong>. <a href=\""
+"https://dr-flex.de/login\" target=\"_blank\"> (here)</a>"
 msgstr ""
-"Den API Key finden Sie in den Einstellungen in der Dr. Flex Praxis Anwendung "
-"(oder <a href=\"https://dr-flex.de/doctors\" target=\"_blank\">hier "
-"online</a>)."
+"Der API Key wurde Ihnen wahrscheinlich schon vom Dr. Flex Support per Mail "
+"übermittelt.<br>Sie finden den Key ebenfalls im Dr. Flex Praxis-Konfigurator "
+"unter <strong>Praxis &rarr; Verbindung und Integrationen</strong>. <a href=\"https://dr-flex.de/login\" target=\"_blank\"> (hier)</a>"
 
 #: dr-flex.php:521
 msgid ""
